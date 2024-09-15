@@ -1,6 +1,6 @@
 {
   "name": "@ellentorg/stunning-funicular",
-  "version": "6.10.129",
+  "version": "6.10.130",
   "description": "",
   "main": "index.js",
   "author": "ellentea",
@@ -548,7 +548,7 @@
   "bugs": {
     "url": "https://github.com/ellentorg/stunning-funicular/issues"
   },
-  "packageManager": "yarn@4.4.1",
+  "packageManager": "yarn@4.5.0",
   "dependencies": {
     "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
